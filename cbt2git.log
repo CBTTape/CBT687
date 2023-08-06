@@ -1,0 +1,9 @@
+2023-08-06 06:30:08.955846 - Initialized conversion of CBT687
+2023-08-06 06:30:09.004773 - Received CBT.V505.FILE687.PDS from FILE687.XMI 
+2023-08-06 06:30:09.007290 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE687.PDS, moved to PDS/$$$#DATE
+2023-08-06 06:30:09.008429 - Found $$NOTE0.txt (text/plain) in CBT.V505.FILE687.PDS, moved to PDS/$$NOTE0
+2023-08-06 06:30:09.009531 - Found $$NOTE1.txt (text/plain) in CBT.V505.FILE687.PDS, moved to PDS/$$NOTE1
+2023-08-06 06:30:09.010530 - Found @FILE687.txt (text/plain) in CBT.V505.FILE687.PDS, moved to PDS/@FILE687
+2023-08-06 06:30:09.011418 - Found SKEL.txt (text/plain) in CBT.V505.FILE687.PDS, moved to PDS/SKEL
+2023-08-06 06:30:09.012342 - Found VVDS.txt (text/plain) in CBT.V505.FILE687.PDS, moved to PDS/VVDS
+2023-08-06 06:30:09.013259 - Found VVDSALT.txt (text/plain) in CBT.V505.FILE687.PDS, moved to PDS/VVDSALT
