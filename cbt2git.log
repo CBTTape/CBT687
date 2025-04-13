@@ -1,0 +1,8 @@
+2025-04-13 21:48:39.208855 - Received CBT.V508.FILE687.PDS from FILE687.XMI 
+2025-04-13 21:48:39.209658 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE687.PDS, moved to PDS/$$$#DATE
+2025-04-13 21:48:39.209738 - Found $$NOTE0.txt (text/plain) in CBT.V508.FILE687.PDS, moved to PDS/$$NOTE0
+2025-04-13 21:48:39.209802 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE687.PDS, moved to PDS/$$NOTE1
+2025-04-13 21:48:39.209866 - Found @FILE687.txt (text/plain) in CBT.V508.FILE687.PDS, moved to PDS/@FILE687
+2025-04-13 21:48:39.209927 - Found SKEL.txt (text/plain) in CBT.V508.FILE687.PDS, moved to PDS/SKEL
+2025-04-13 21:48:39.209991 - Found VVDS.txt (text/plain) in CBT.V508.FILE687.PDS, moved to PDS/VVDS
+2025-04-13 21:48:39.210054 - Found VVDSALT.txt (text/plain) in CBT.V508.FILE687.PDS, moved to PDS/VVDSALT
